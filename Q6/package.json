@@ -1,0 +1,12 @@
+{
+  "name": "Typescript and Node js Assignment 6",
+  "version": "1.0.0",
+  "description": "In this file I solved assignemnt 6 of Governor IT Initiative",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Basel Hussain (Roll no:00362945)",
+  "license": "ISC"
+}
